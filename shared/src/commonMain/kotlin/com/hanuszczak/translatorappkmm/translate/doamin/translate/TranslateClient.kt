@@ -1,4 +1,4 @@
-package com.hanuszczak.translatorappkmm.translate.domain.translate
+package com.hanuszczak.translatorappkmm.translate.doamin.translate
 
 import com.hanuszczak.translatorappkmm.core.domain.language.Language
 
